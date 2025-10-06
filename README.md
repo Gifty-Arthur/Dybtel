@@ -1,5 +1,5 @@
 
-Hey there! Welcome to my Dybtel Technical Assessment Project.
+Hey there! 
 I built this app, It's a simple, mobile-friendly web app that lets you log in, check a dashboard, top up an account, and view your transaction history.
 
 Tech I Used 🛠️
